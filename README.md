@@ -6,9 +6,6 @@
 <a href="https://www.instagram.com/mr_devani99/">
   <img align="left" alt="Bhargav's Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />
 </a>
-<a href="https://twitter.com/dakshp07">
-  <img align="left" alt="Bhargav's Twitter" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" />
-</a>
 <a href="mailto:bhargavdevani99@gmail.com">
   <img align="left" alt="Mail Bhargav" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" />
 </a>
